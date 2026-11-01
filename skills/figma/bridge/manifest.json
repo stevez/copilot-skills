@@ -7,7 +7,7 @@
   "editorType": ["figma"],
   "networkAccess": {
     "allowedDomains": ["none"],
-    "devAllowedDomains": ["http://localhost:9230", "http://127.0.0.1:9230"],
+    "devAllowedDomains": ["http://localhost:9230"],
     "reasoning": "Polls a local bridge server on the developer's machine for Plugin API scripts."
   }
 }
